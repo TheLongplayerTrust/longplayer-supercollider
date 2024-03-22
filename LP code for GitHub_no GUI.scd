@@ -53,7 +53,7 @@ this is to allow the 2 minute section playing to slide seamlessly across the joi
 end and start points, as if the soundfile was glued together into a continuous circle
 */
 //soundfile inside SuperCollider application package /Contents/Resources/sounds
-s.sendMsg("/b_allocRead",0,Platform.resourceDir +/+ "sounds/20 20.aif");
+s.sendMsg("/b_allocRead",0,Platform.resourceDir +/+ "sounds/20-20.aif");
 lpCallList = List.fill(6,0);
 //realLength is 20 mins 20 seconds * sample rate - here 44100
 //actual soundfile is longer to emulate smooth transition across joined up start and end point
