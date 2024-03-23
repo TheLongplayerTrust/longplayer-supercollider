@@ -15,3 +15,5 @@ SuperCollider 3.5 +
 A Linux or macOS system with audio output
 
 The _Longplayer_ audio file (20-20.aif)
+
+Usage: on a Mac copy the audio file, 20-20.aif, to a folder called sounds in the SuperCollider package: Contents/Resources/sounds
