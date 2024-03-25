@@ -20,4 +20,4 @@ For more information about _Longplayer_'s algorithm, read the overview of the pi
 
 ## Usage 
 
-- on a Mac copy the audio file, 20-20.aif, to a folder called sounds in the SuperCollider package: Contents/Resources/sounds
+- copy the audio file, 20-20.aif, into a folder called audio at the same level as the code
