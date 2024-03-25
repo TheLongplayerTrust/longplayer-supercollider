@@ -8,7 +8,7 @@ Due to its duration it was written to be performed by any available and compatib
 
 This is an implementation of the _Longplayer_ algorithm in SuperCollider, which can be run on any compatible computer with audio output.
 
-For more information about _Longplayer_'s algorithm, read the overview of the piece.
+For more information about _Longplayer_'s algorithm, see the Longplayer Trust README file.
 
 ## Requirements
 
