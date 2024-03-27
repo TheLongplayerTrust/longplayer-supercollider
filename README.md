@@ -20,5 +20,5 @@ For more information about _Longplayer_'s algorithm, see the Longplayer Trust RE
 
 ## Usage 
 
-- copy the audio file, 20-20.aif, into a folder called audio, in the same directory as the code.
+- copy the audio file, 20-20.aif, into the same directory as the code.
 - you will hear nothing initially on startup while the code waits for the next two minute period to begin.
