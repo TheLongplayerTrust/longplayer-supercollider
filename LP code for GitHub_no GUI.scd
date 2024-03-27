@@ -52,8 +52,8 @@ the soundfile has an extra section, the first two minutes, added to its end
 this is to allow the 2 minute section playing to slide seamlessly across the join of
 end and start points, as if the soundfile was glued together into a continuous circle
 */
-//expects a soundfile called 20-20.aif inside a folder called audio at the same level as this code
-s.sendMsg("/b_allocRead", 0, thisProcess.nowExecutingPath.dirname +/+ "audio/20-20.aif")
+//expects a soundfile called 20-20.aif inside the same directory as this code
+s.sendMsg("/b_allocRead", 0, thisProcess.nowExecutingPath.dirname +/+ "20-20.aif");
 lpCallList = List.fill(6,0);
 //realLength is 20 mins 20 seconds * sample rate - here 44100
 //actual soundfile is longer to emulate smooth transition across joined up start and end point
