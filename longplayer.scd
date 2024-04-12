@@ -76,6 +76,7 @@ sec = date.second;
 if(min.even,{onAt = (min + 2)%60},{onAt = (min + 1)%60});
 if(onAt == 0,{onAt = 60});
 ["onAt "++onAt].postln;
+//Daniel Jones new increment calculation method:
 //calculate number of increments since Longplayer started playing:
 //total seconds since January 1st 1970
 now_seconds = Date.getDate.rawSeconds;
