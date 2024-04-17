@@ -46,7 +46,7 @@ var minz,hrz,daze;
 var minsrun,hrsrun,daysrun;
 //for countdown
 var onIn;
-//time zone offset: Loongplayer takes its time from the International Date Line
+//time zone offset: Longplayer takes its time from the International Date Line
 //London: 12 hours behind - offset added to local time
 timeZoneOffset = 12;
 /*
