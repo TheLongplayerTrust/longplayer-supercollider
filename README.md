@@ -16,7 +16,7 @@ For more information about _Longplayer_'s algorithm, see the Longplayer Trust RE
 
 - A Linux or macOS system with audio output
 
-- The _Longplayer_ audio file ([20-20.aif](https://longplayer.org/audio/20-20.aif.zip))
+- The _Longplayer_ audio file ([20-20.aif.zip](https://longplayer.org/audio/20-20.aif.zip))
 
 ## Usage 
 
