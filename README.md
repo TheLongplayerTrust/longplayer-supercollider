@@ -16,10 +16,10 @@ For more information about _Longplayer_'s algorithm, see the Longplayer Trust RE
 
 - A Linux or macOS system with audio output
 
-- The _Longplayer_ audio file ([20-20.aif.zip](https://longplayer.org/audio/20-20.aif.zip))
+- The _Longplayer_ audio file ([20-20.aif.zip](https://longplayer.org/audio/20-20.wav.zip))
 
 ## Usage 
 
-- copy the audio file, 20-20.aif, into the same directory as the code.
+- copy the audio file, 20-20.wav, into the same directory as the code.
 - set the variable timeZoneOffset in line 51: its value should be set to your computer clock's deviation from the time at the International Date Line, e.g. +12 in London.
 - you will hear nothing initially on startup while the code waits for the next two minute period to begin.
